@@ -1,4 +1,4 @@
 # Hacktoberfest-tictactoe
-Contribute to this repo to win the hacktoberfest swags.
+Contribute to this repository to win the hacktoberfest swags.
 
-## Add valueable features to get your PR merged.
+## Add valuable features to get your PR merged.
